@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Luís!
 
 <!--
 **luissitoe/luissitoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
