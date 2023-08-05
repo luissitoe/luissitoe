@@ -1,0 +1,16 @@
+name: Latest youtube post upload
+on:
+push:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+        uses: actions/checkout@v3
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: YOUTUBE
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC4GaE82byhcbNS9UIzLzgKg"
