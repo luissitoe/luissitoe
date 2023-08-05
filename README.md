@@ -2,7 +2,7 @@
 
 🧑‍💻 Self-taught Front-End Developer
 
-### Youtube Channel
+### 🎬 Youtube Channel
 
 [DesignedByLuis](https://www.youtube.com/channel/@designedbyluis)
 
