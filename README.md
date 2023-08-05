@@ -6,7 +6,7 @@
 
 [DesignedByLuis](https://www.youtube.com/channel/@designedbyluis)
 
-### Latest Youtube Uploads
+### ⬆️ Latest Youtube Uploads
 
 <!-- YOUTUBE:START -->
 - [Complete Responsive Personal Portfolio Website Using HTML CSS and JavaScript](https://www.youtube.com/watch?v=ci15yXJ8fCE)
