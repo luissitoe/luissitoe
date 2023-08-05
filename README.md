@@ -4,7 +4,7 @@ Self-taught Front-End Developer
 
 ### Youtube Channel
 
-[Youtube](https://www.youtube.com/channel/@designedbyluis)
+[DesignedByLuís](https://www.youtube.com/channel/@designedbyluis)
 
 ### Latest Youtube Uploads
 
