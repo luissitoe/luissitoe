@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Luís!
 
-🧑‍💻 Self-taught Front-End Developer
+🧑‍💻 Front-End Developer
 
 ### 🎬 Youtube Channel
 
