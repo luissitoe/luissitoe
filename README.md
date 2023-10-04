@@ -4,7 +4,7 @@
 
 ### 🎬 Youtube Channel
 
-- [DesignedByLuis](https://www.youtube.com/channel/@designedbyluis)
+- [Designedbluis](https://www.youtube.com/channel/@designedbyluis)
 
 ### ⬆️ Latest Youtube Uploads
 
