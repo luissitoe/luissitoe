@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm Luís!
+# 👋 Hi there, I'm Luís!
 
-# About Me
+## About Me
 
 Hello, I'm Luís, a passionate software development student with a keen interest in front-end development. Currently, I'm dedicated to completing my degree in software development while immersing myself in the exciting world of React
 
