@@ -2,11 +2,11 @@
 
 🧑‍💻 Front-End Developer
 
-### 🎬 Youtube Channel
+### Youtube Channel
 
 - [Designedbyluis](https://www.youtube.com/channel/@designedbyluis)
 
-### ⬆️ Latest Youtube Uploads
+### Latest Youtube Uploads
 
 <!-- YOUTUBE:START -->
 - [Create a Responsive Website Using HTML, CSS and JavaScript](https://www.youtube.com/watch?v=yS1HYNwioE8)
