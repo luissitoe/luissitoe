@@ -11,9 +11,17 @@ Hello, I'm Luís, a passionate software development student with a keen interest
 - 🎓 I'm currently pursuing my degree in software development, working hard to build a strong foundation in computer science and software engineering.
 - 🌱 I'm actively learning React to keep up with the latest technologies in the ever-evolving field of web development.
 
-### Youtube Channel
+## YouTube Channel
 
-- [Designedbyluis](https://www.youtube.com/channel/@designedbyluis)
+I'm also a content creator on YouTube, where I share my passion for web development and showcase my projects. You can find video tutorials and demonstrations focused on HTML, CSS, and JavaScript on my channel.
+
+**What You'll Find:**
+
+- 🎥 Video Tutorials: Step-by-step videos building responsive projects using core web technologies.
+- 🚀 Project Showcases: In-depth walkthroughs of my latest web development creations.
+- 📢 Community Engagement: A place to connect, ask questions, and share your own web development journey.
+
+Join me on my YouTube journey by [subscribing to my channel](https://www.youtube.com/channel/@designedbyluis) and turning on notifications so you won't miss any of my exciting web development content.
 
 ### Latest Youtube Uploads
 
