@@ -21,7 +21,7 @@ I'm also a content creator on YouTube, where I share my passion for web developm
 - 🚀 Project Showcases: In-depth walkthroughs of my latest web development creations.
 - 📢 Community Engagement: A place to connect, ask questions, and share your own web development journey.
 
-Join me on my YouTube journey by [subscribing to my channel](https://www.youtube.com/channel/@designedbyluis) and turning on notifications so you won't miss any of my exciting web development content.
+Join me on my YouTube journey by [subscribing to my channel](https://www.youtube.com/channel/UC4GaE82byhcbNS9UIzLzgKg) and turning on notifications so you won't miss any of my exciting web development content.
 
 ### Latest Youtube Uploads
 
