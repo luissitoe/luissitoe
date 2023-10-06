@@ -23,7 +23,7 @@ I'm also a content creator on YouTube, where I share my passion for web developm
 
 Join me on my YouTube journey by [subscribing to my channel](https://www.youtube.com/channel/UC4GaE82byhcbNS9UIzLzgKg) and turning on notifications so you won't miss any of my exciting web development content.
 
-### Latest Youtube Uploads
+**Latest Uploads**
 
 <!-- YOUTUBE:START -->
 - [Create a Responsive Website Using HTML, CSS and JavaScript](https://www.youtube.com/watch?v=yS1HYNwioE8)
