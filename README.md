@@ -1,17 +1,17 @@
 # 👋 Hi there, I'm Luís!
 
-## About Me
+### About Me
 
 I'm a passionate software development student with a keen interest in front-end development. Currently, I'm dedicated to completing my degree in software development while immersing myself in the exciting world of React
 
-## Background
+### Background
 
 - 👨‍🎓 I'm a software development student on a quest for knowledge and excellence.
 - 💻 My primary focus is on front-end development, where I enjoy creating beautiful and interactive user interfaces.
 - 🎓 I'm currently pursuing my degree in software development, working hard to build a strong foundation in computer science and software engineering.
 - 🌱 I'm actively learning React to keep up with the latest technologies in the ever-evolving field of web development.
 
-## YouTube Channel
+### YouTube Channel
 
 I'm also a content creator on YouTube, where I share my passion for web development and showcase my projects. You can find video tutorials and demonstrations focused on HTML, CSS, and JavaScript on my channel.
 
