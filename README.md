@@ -12,7 +12,7 @@ I'm a passionate software development student with a keen interest in front-end 
 - 🌱 I'm actively learning React to keep up with the latest technologies in the ever-evolving field of web development.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,sass,bootstrap,figma,java,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,figma,java,php,mysql)](https://skillicons.dev)
 
 ### YouTube Channel
 
