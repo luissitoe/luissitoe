@@ -11,7 +11,8 @@ I'm a passionate software development student with a keen interest in front-end 
 - 🎓 I'm currently pursuing my degree in software development, working hard to build a strong foundation in computer science and software engineering.
 - 🌱 I'm actively learning React to keep up with the latest technologies in the ever-evolving field of web development.
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,sass,bootstrap,figma,java,php)](https://skillicons.dev)
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,sass,bootstrap,figma,java,php, mysql)](https://skillicons.dev)
 
 ### YouTube Channel
 
