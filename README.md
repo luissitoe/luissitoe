@@ -17,7 +17,7 @@ I'm a passionate software development student with a keen interest in front-end 
 
 I'm also a content creator on YouTube, where I share my passion for web development and showcase my projects. You can find video tutorials and demonstrations focused on HTML, CSS, and JavaScript on my channel.
 
-Join me on my YouTube journey by [subscribing to my channel](https://www.youtube.com/channel/UC4GaE82byhcbNS9UIzLzgKg) and turning on notifications so you won't miss any of my exciting web development content.
+Join me on my YouTube journey by [subscribing to my channel](https://www.youtube.com/channel/UC4GaE82byhcbNS9UIzLzgKg) and turning on notifications so you won't miss any of my exciting Front-End development content.
 
 **Latest Uploads**
 
