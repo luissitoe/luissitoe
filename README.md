@@ -4,12 +4,6 @@
 
 I'm a passionate software development student with a keen interest in front-end development. Currently, I'm dedicated to completing my degree in software development while immersing myself in the exciting world of React
 
-### Background
-
-- 👨‍🎓 I'm a software development student on a quest for knowledge and excellence.
-- 💻 My primary focus is on front-end development, where I enjoy creating beautiful and interactive user interfaces.
-- 🌱 I'm actively learning React to keep up with the latest technologies in the ever-evolving field of web development.
-
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,figma,java,php,mysql)](https://skillicons.dev)
 
