@@ -16,11 +16,11 @@ Join me on my YouTube journey by [subscribing to my channel](https://www.youtube
 **Latest Uploads**
 
 <!-- YOUTUBE:START -->
+- [Login and Registration Form Using HTML, CSS and JavaScript](https://www.youtube.com/watch?v=L2az0Pho_Ho)
 - [How To Create A Responsive Website Using HTML CSS &amp; JavaScript | Virtual Reality Landing Page](https://www.youtube.com/watch?v=lKBq-J5pPsE)
 - [Personal Portfolio Website Using HTML CSS and JavaScript](https://www.youtube.com/watch?v=zRv5AeDWN3w)
 - [Responsive E-Learning Website Landing Page Using HTML CSS and JavaScript](https://www.youtube.com/watch?v=DJtemYSX3HA)
 - [Responsive Furniture Website Using HTML CSS and JavaScript](https://www.youtube.com/watch?v=yS1HYNwioE8)
-- [Responsive Travel Website Using HTML CSS and JavaScript](https://www.youtube.com/watch?v=7IDNxeoggLQ)
 <!-- YOUTUBE:END -->
 
 <!--
