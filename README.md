@@ -9,9 +9,7 @@ I'm a passionate software development student with a keen interest in front-end 
 
 ### YouTube Channel
 
-I'm also a content creator on YouTube, where I share my passion for web development and showcase my projects. You can find video tutorials and demonstrations focused on HTML, CSS, and JavaScript on my channel.
-
-Join me on my YouTube journey [Designedybyluis](https://www.youtube.com/channel/UC4GaE82byhcbNS9UIzLzgKg)
+I'm also a content creator on YouTube, where I share my passion for web development and showcase my projects. You can find video tutorials and demonstrations focused on HTML, CSS, and JavaScript on my channel [Designedybyluis](https://www.youtube.com/channel/UC4GaE82byhcbNS9UIzLzgKg).
 
 **Latest Uploads**
 
