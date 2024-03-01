@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a passionate software development student with a keen interest in front-end development. Currently, I'm dedicated to completing my degree in software development while immersing myself in the exciting world of React.
+I'm a passionate software development student with a keen interest in front-end development. Currently, I'm dedicated to completing my degree in software development.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,java,php,mysql,figma)](https://skillicons.dev)
