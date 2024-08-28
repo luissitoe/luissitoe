@@ -7,13 +7,7 @@ I'm a passionate software development student with a keen interest in front-end 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,java,php,mysql,figma)](https://skillicons.dev)
 
-### YouTube Channel
-
-I'm also a content creator on YouTube. You can find video tutorials focused on HTML, CSS, and JavaScript on my channel [Designedybyluis](https://www.youtube.com/channel/UC4GaE82byhcbNS9UIzLzgKg).
-
-**Latest Uploads**
-
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START 
 - [Login and Registration Form Using HTML, CSS and JavaScript](https://www.youtube.com/watch?v=L2az0Pho_Ho)
 - [How To Create A Responsive Website Using HTML CSS &amp; JavaScript | Virtual Reality Landing Page](https://www.youtube.com/watch?v=lKBq-J5pPsE)
 - [Personal Portfolio Website Using HTML CSS and JavaScript](https://www.youtube.com/watch?v=zRv5AeDWN3w)
