@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Luís!
+# 👋 Hi there!
 
 ### About Me
 
