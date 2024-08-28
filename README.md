@@ -5,7 +5,7 @@
 I'm a passionate software development student with a keen interest in front-end development. Currently, I'm dedicated to completing my degree in software development.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,java,php,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,php,mysql,figma)](https://skillicons.dev)
 
 <!-- YOUTUBE:START 
 - [Login and Registration Form Using HTML, CSS and JavaScript](https://www.youtube.com/watch?v=L2az0Pho_Ho)
