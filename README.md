@@ -1,4 +1,4 @@
-# 👋 Hello!
+# Hello! 👋
 
 <!--
 - 🔭 I’m currently focused on completing my degree in Software Development
