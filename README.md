@@ -1,4 +1,4 @@
-## Hello👋, I'm Luís! 
+## Hey👋, I'm Luís! 
 
 A Software Development student passionate about building real-world solutions through code.
 I'm currently focused on finishing my degree in Software Development while working on personal and academic projects, experimenting with mobile app development, and learning best practices in software engineering.
